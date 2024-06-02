@@ -3,8 +3,8 @@ import streamlit as st
 
 st.set_page_config('메인 페이지')
 
-ultra_sonic_sensor_img = Image.open('images/ultraSonicSensor.jpg')
-servo_motor_img = Image.open('images/servoMotor.jpg')
+ultra_sonic_sensor_img = 'images/ultraSonicSensor.jpg'
+servo_motor_img = 'images/servoMotor.jpg'
 
 
 
